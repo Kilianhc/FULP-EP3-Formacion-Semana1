@@ -1,0 +1,6 @@
+[submodule "Tarea1-Frontend"]
+	path = Tarea1-Frontend
+	url = https://github.com/Kilianhc/Tarea1-Frontend.git
+[submodule "Tarea1-Backend"]
+	path = Tarea1-Backend
+	url = https://github.com/Kilianhc/Tarea1-Backend.git
